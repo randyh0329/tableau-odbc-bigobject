@@ -9,10 +9,9 @@
  ![](image002.png)
 
 3. Read the agreement, and then click “I Agree” button. The installation will proceed:
- ![](install03.PNG)
+ ![](image3.png)
 
 4. Once done, click next and final screen will summarize what have done.  Click Finish on that screen to close the installer:
-
- ![](install04.PNG)
+ ![](image3-1.png)
  
 5. Ready to Setup New ODBC Data Source.
