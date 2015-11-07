@@ -11,3 +11,7 @@
 
 4. Here you got the data and could do whatever you want in Tableau.
 ![](Tableau_result.png)
+
+5. Following is the sample usage:
+![](imges4.png)
+ 
